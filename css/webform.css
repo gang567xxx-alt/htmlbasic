@@ -1,0 +1,9 @@
+.box{
+    width: 500px; /* ต้องกำหนดความกว้างให้กล่อง */
+    margin-left: auto; /* ตั้งค่า margin ด้านซ้ายเป็นอัตโนมัติ */
+    margin-right: auto; /* ตั้งค่า margin ด้านขวาเป็นอัตโนมัติ */
+    background-color: rgb(243, 225, 180);
+}
+.input {
+    width: 390px;  /* กำหนดความกว้าง input ให้เท่ากัน */
+}
